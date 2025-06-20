@@ -1,0 +1,21 @@
+.about-container{
+  padding: 70px 30px ;
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.about-container p{
+  margin-left: 50px;
+  /* padding-left: 10px; */
+  /* transition:  0.2s; */
+}
+/* .about-container p:hover{
+  padding-right: -20;
+  border-left:2px solid rgb(0, 255, 224);
+} */
+
+.about-text{
+  font-display: flex;
+  align-items: center;
+}
