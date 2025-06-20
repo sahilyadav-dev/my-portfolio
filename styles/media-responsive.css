@@ -1,4 +1,4 @@
-@media (max-width: 600px) {
+@media (max-width: 768px) {
 
   body{
     overflow-x: hidden;
@@ -86,6 +86,11 @@
   .contact-form {
     padding: 0;
     padding-bottom: 30px;
+  }
+  .contact-container2{
+    flex-direction: column;
+    justify-content: none;
+    gap: 20px;
   }
 }
 
